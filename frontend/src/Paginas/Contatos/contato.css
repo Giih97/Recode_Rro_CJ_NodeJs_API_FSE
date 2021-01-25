@@ -1,0 +1,33 @@
+
+#contatos{
+    display:flex;
+    justify-content: center;
+  
+}
+ #what{
+    border:2px solid black;
+    padding: 50px;
+    margin-right: 50px;
+ }
+ #email{
+    border:2px solid black;
+    padding: 50px;
+ }
+
+ #formulario{
+     width: 500px;
+     margin:auto;
+
+ }
+ #formC{
+    display: block;
+    justify-content: space-between;
+ }
+
+#botaoF{
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+
+

@@ -1,0 +1,21 @@
+
+.tituloC2{
+    margin-top:0%;
+    margin-left: 10%;
+    margin-bottom: 30%;
+}
+.lista{
+    margin-top: 60px;
+    
+}
+.list-group{
+float:left;
+width: 190px;
+margin-top:-20% ;
+margin-left: 20px;
+border: 1px solid rgba(0,0,0, 0.3);
+border-radius: 5px;
+display: block;
+box-sizing: border-box;
+
+}

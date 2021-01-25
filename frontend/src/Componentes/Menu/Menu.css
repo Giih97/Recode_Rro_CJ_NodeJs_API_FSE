@@ -1,0 +1,11 @@
+.nav-item {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    width: 60%;
+    position: relative;
+    margin: auto;
+
+}

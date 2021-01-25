@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Criar o arquivo package\r ### npm init\r Gerenciar as requisições,rotas e URLs,entre outra funcionalidades\r ### npm install express\r O módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente\r ### npm install -g nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gilda Monteiro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
+}

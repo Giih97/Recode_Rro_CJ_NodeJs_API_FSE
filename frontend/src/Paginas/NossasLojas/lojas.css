@@ -1,0 +1,21 @@
+#principal {
+    display: flex;
+    justify-content: center;
+}
+
+
+.principal{
+    display: inline-flex;
+    justify-content:space-between;
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    text-align: center;
+    margin:10px;
+}
+
+.lojas{
+    padding: 10px;
+    margin-right: 20px;
+}
+
