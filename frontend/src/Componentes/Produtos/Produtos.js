@@ -8,7 +8,7 @@ export default function Produtos() {
   const [produtos, setProdutos] = useState([])
 
   useEffect(async () => {
-    const resposta = await fetch(`http://localhost:3002/`);
+    const resposta = await fetch(`http://localhost:3002/produtos`);
     const dados = await resposta.json();
     setProdutos(dados);
   

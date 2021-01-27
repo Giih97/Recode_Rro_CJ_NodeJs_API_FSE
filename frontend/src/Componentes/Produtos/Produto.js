@@ -15,7 +15,7 @@ import {Card,Col,Button} from "react-bootstrap";
             <Card.Title>{props.descricao}</Card.Title>
             <Card.Text > <p>R$<strike>{props.preco}</strike></p>
             <p style={{ color: 'red' }}>R$ {props.preco_venda}</p></Card.Text>
-            <Button variant="dark"onClick={}>Adicionar</Button>
+            <Button variant="dark">Adicionar</Button>
             </Card.Body>
         </Card>
         </Col>
